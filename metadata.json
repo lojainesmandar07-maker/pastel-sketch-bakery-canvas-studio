@@ -1,0 +1,6 @@
+{
+  "name": "Pastel-Sketch Bakery Canvas Studio",
+  "description": "Procedural pastel-sketch canvas engine featuring Pretzel Baker Bear and a handcrafted 3D storybook bakery background.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
